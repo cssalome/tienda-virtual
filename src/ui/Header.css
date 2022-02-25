@@ -1,0 +1,11 @@
+.container {
+  max-width: 80%;
+  margin-top: 0 auto;
+}
+
+.header {
+  background-color: aquamarine;
+  height: 2rem;
+  display: flex;
+  justify-content: end;
+}
